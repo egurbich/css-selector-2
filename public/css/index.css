@@ -1,1 +1,109 @@
+/* Завдання №1 */
+.lesson-four-task-one button:hover {
+    color: red;
+    background-color: yellow;
+}
+  
+/* Завдання №2 */
+.lesson-four-task-two a:hover {
+    background-color: green;
+}
+  
+/* Завдання №3 */
+#lesson-four-task-three .link:visited {
+    color: yellow;
+}
+  
+/* Завдання №4 */
+#sidebar .link:link {
+    color: red;
+}
+  
+/* Завдання №5 */
+.lesson-four-task-five button:active {
+    background-color: blue;
+}
+  
+/* Завдання №6 */
+.lesson-four-task-six button:focus {
+    color: orange;
+    background-color: orange;
+}
+  
+/* Завдання №7 */
+#target:target {
+    color: white;
+    background-color: green;
+}
+  
+/* Завдання №8 */
+.lesson-four-task-eight input:checked + #target {
+    color: white;
+    background-color: blue;
+}
+  
+/* Завдання №9 */
+:lang(uk) {
+    color: blue;
+}
+  
+/* Завдання №10 */
+.lesson-four-task-ten input:enabled {
+    color: red;
+    background-color: yellow;
+}
+  
+/* Завдання №11 */
+.lesson-four-task-eleven input:disabled {
+    background-color: yellow;
+}
+  
+/* Завдання №12 */
+.lesson-four-task-twelve input:read-write {
+    background-color: yellow;
+}
+  
+/* Завдання №13 */
+.lesson-four-task-thirteen input[readonly] {
+    background-color: yellow;
+}
+  
+/* Завдання №14 */
+.lesson-four-task-fourteen input:valid {
+    background-color: green;
+}
+.lesson-four-task-fourteen input:invalid {
+    background-color: red;
+}
+  
+/* Завдання №15 */
+.lesson-four-task-fifteen input:optional {
+    background-color: red;
+}
+  
+/* Завдання №16 */
+.lesson-four-task-sixteen input:out-of-range {
+    color: red;
+}
 
+/* Завдання №17 */
+.lesson-four-task-seventeen input:in-range {
+    color: red;
+}
+  
+/* Завдання №18 */
+.lesson-four-task-eighteen input::placeholder {
+    color: red;
+}
+  
+/* Завдання №19 */
+.lesson-four-task-nineteen .btn-group button:focus-within {
+    color: white;
+    background-color: yellow;
+}
+  
+/* Завдання №20 */
+.lesson-four-task-twenty input:invalid {
+    background-color: red;
+}
+  
